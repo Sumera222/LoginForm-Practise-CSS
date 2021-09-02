@@ -28,8 +28,8 @@ span{
     padding-right: 80px;
 }
 .button {
-    background-color: limegreen;
-    border: none;
+    background-color: crimson;
+    border: black;
     font-family: 'Itim', cursive;
     color: rgb(0, 0, 0);
     padding-left: 70px;
